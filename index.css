@@ -11,3 +11,16 @@ body {
     align-items: center;
     background: #252424;
 }
+
+.profilecard1-vansh{
+        background: #282828;
+        width: 290px;
+        height: 290px;
+        border-radius: 5px;
+        padding: 20px;
+        transition: 0.3s ease-in-out;
+        text-align: center;
+        transform: scale(1.05);
+        background: #ffd700;
+        color: #0f0f0f;
+}
