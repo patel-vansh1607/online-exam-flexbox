@@ -26,10 +26,10 @@ body {
     position: relative;
 }
 
-h1 {
+h2 {
     font-family: 'Bigola';
 }
-h2 {
+p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .maindiv .card1{
