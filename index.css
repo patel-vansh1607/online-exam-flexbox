@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bigola';
+    src: url(./fonts/bigola-display.ttf);
+} 
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #252424;
+}
