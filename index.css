@@ -10,6 +10,7 @@ body {
 .maindiv{
     display: flex;
     gap: 200px;
+    justify-content: center;
    
 }
 .card1, .card2, .card3 {
@@ -82,16 +83,17 @@ p {
 
 .btn:hover {
     background:     #ffffff;
-    
+    transition: transform 2.5s ease-in-out;
 }
 
 h2:hover{
     font-size: xx-large;
-
+    transition: transform 2.5s ease-in-out;
 }
 
 p:hover{
     font-weight: 400;
+    transition: transform 2.5s ease-in-out;
 }
 
 @media (max-width: 1200px) {
@@ -140,3 +142,4 @@ p:hover{
         font-size: smaller;
     }
 }
+
