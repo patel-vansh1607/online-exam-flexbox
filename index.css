@@ -49,7 +49,7 @@ p {
     top: -150px; 
     left: 50%;
     transform: translateX(-50%);
-    border: 5px solid #FFC300;
+    border: 5px solid #ffd700;
     border-radius: 50%;
     padding: 10px;
     background-color: #C70039;
@@ -92,4 +92,51 @@ h2:hover{
 
 p:hover{
     font-weight: 400;
+}
+
+@media (max-width: 1200px) {
+    .maindiv {
+        flex-direction: column;
+        align-items: center;
+    }
+    .card1, .card2, .card3 {
+        width: 80%;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .maindiv {
+        flex-direction: column;
+        gap: 50px;
+    }
+    .card1, .card2, .card3 {
+        width: 90%;
+        margin-top: 10px;
+    }
+    .profile-photo {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+@media (max-width: 480px) {
+    .maindiv {
+        flex-direction: column;
+        gap: 30px;
+    }
+    .card1, .card2, .card3 {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .profile-photo {
+        width: 100px;
+        height: 100px;
+    }
+    h2 {
+        font-size: larger;
+    }
+    p {
+        font-size: smaller;
+    }
 }
