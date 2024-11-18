@@ -9,12 +9,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #252424;
+    background: #581845;
 }
 
 .maindiv{
     display: flex;
     gap: 200px;
+   
 }
 .card1, .card2, .card3 {
     background: #282828;
@@ -27,6 +28,22 @@ body {
     transform: scale(1.05);
     background: #ffd700;
     color: #0f0f0f;
-      
+    
+}    
+.profile-photo {
+    position: absolute;
+    top: -180px; 
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px solid #FFC300; 
+    border-radius: 50%; 
+    padding: 10px; 
+    background-color: #C70039; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}    
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
 }
-
