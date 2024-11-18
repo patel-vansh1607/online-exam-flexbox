@@ -1,7 +1,9 @@
 # online-exam-flexbox
 
 WHAT MY CODE DOES
-i have created a responsive layout using Flexbox for a profile card design for me and my friends, it contains a prfile pic, name, skills, and a button that they can be reached out on email
+ - i have created a responsive layout using Flexbox for a profile card design for me and my friends
+ - it contains a prfile pic, name, skills
+ - and a button that they can be reached out on email
 
 FLEX BOX PROPERTIES USED
 
