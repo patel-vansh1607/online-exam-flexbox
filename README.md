@@ -26,10 +26,3 @@ WHAT I LEARNT
 2. got to work with responsive screens
 3. i importeda new font which i downloaded
 
-September has been a significant month, hostingtwo of our largest events: **Bingo Night 2024** and **Installation2024**.
-
-This report will recap all the events from themonth, and below, you’ll find an attendance analysis as well.
-
-**September 21st, 2024**:**Bingo Night Charity Fundraiser**Raised over 120,000 KSH
-
-**September 28th, 2024**:**Installation 2024**Installation of the new President
